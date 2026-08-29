@@ -1,0 +1,2 @@
+# My custom blocklist - one domain per line
+# (public repo: never list domains that reveal private infra)
