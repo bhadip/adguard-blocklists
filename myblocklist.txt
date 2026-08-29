@@ -2,3 +2,4 @@
 # (public repo: never list domains that reveal private infra)
 ||synapxe.sg
 ||detik.com
+||garuda-indonesia.com
