@@ -3,3 +3,5 @@
 #||an-ad-domain.com
 ||wildbearads.go2affise.com
 ||moonlighthathel.org
+||hk.trip.com
+||sg.trip.com
